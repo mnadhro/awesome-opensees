@@ -101,6 +101,7 @@ Personal blogs, communities or forums where you can find help.
 * [dinochen.com in Chinese](http://dinochen.com/) - Blog of Dr. Chen Xue Wei, Senior Associate, WSP Hong Kong Ltd. ![chinese][chinese]
 * [Portwood Digital](https://portwooddigital.com/) - Blog of Dr. Michael Scott, Oregon State University. He is one of the core developers of OpenSees.
 * [Jose Abell's Research Blog](https://joseabell.com/) - Blog of Dr. Jose Abell focused on Geotechincal research using OpenSees.
+* [OpenSees Tutorials by Christian Slotboom](https://www.youtube.com/channel/UCA31vQmuRBOjjsHDFjxkelQ) - Youtube channel with getting started videos.
 
 ## Contributing
 If you are interested in contributing, please read the [contribution guidelines](contributing.md). You can either contribute to the list, or contribute to the tcl codes. Your efforts are highly appreciated by the authors.
